@@ -9,6 +9,7 @@
   "text.autoconfig.camcord.option.farPlane": "Far Plane",
   "text.autoconfig.camcord.option.boarder": "Boarder",
   "text.autoconfig.camcord.option.boarder.@Tooltip": "Toggles vhs boarder on Camcord shader.",
+  "text.autoconfig.camcord.option.dateOverlay": "Date/Time Overlay",
   "camcord.keybinding.category": "Camcord",
   "camcord.keybinding.toggle": "Toggle Camcord Shader",
   "camcord.keybinding.config": "Open Camcord Config"

@@ -17,6 +17,7 @@ public class CamcordConfig implements ConfigData {
 	public float farPlane = 100.0F;
 	@ConfigEntry.Gui.Tooltip()
 	public boolean boarder = true;
+	public boolean dateOverlay = false;
 	private static ConfigHolder<CamcordConfig> getConfigHolder() { return AutoConfig.getConfigHolder(CamcordConfig.class); }
 	public static CamcordConfig getInstance() { return getConfigHolder().getConfig(); }
 	public static void saveConfig() { getConfigHolder().save(); }
